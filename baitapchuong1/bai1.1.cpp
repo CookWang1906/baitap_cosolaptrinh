@@ -31,6 +31,5 @@ else
     {
         cout << "Phuong trinh vo nghiem.";
     }
-    }
 return 0;
 }
