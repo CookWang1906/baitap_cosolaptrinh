@@ -2,8 +2,7 @@
 #include <iostream>
 #include <cmath>
 using namespace std;
-int main()
-{
+int main() {
 float a, b, c;
 cout << "Nhap he so a: "; cin >> a;
 cout << "Nhap he so b: "; cin >> b;
@@ -31,7 +30,6 @@ else
     else
     {
         cout << "Phuong trinh vo nghiem.";
-    }
     }
 return 0;
 }
